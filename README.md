@@ -1,2 +1,2 @@
 # FirstKickStart
-for practicing github commds
+for practicing github commands
